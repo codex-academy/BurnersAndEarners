@@ -7,23 +7,27 @@ title: Burners And Earners
 
 Some friends of ours have cellphone with various social media apps installed. They've been arguing about how much data they're using, and how much it's cost them. They heard that we're developers, so they want use to run some numbers.
 
-We asked them to WhutsUp us with what apps they have. The apps we're interested in are Faceblock, Instantgam, Tooter, and LankedOn.
+![](/img/cellphone.png)
 
-* Walter sent: "Hello. I've got Faceblock and Instantgam. I'm too old for the other ones."
-* Jesse sent:  "Yo! I've got 'em all. Tooter, Faceblock, Instantgam, Snaptalk."
-* Saul sent: "I'm on LankedOn for Business. And I have an Instantgam account for my cats. Oh, and Faceblock for my ex-husbands."
-* Gus sent: "I use Tooter and Instantgam. My customers aren't on the others, so I can't get them to engage with my brand there."
+We asked them to WhutsUp us with **what apps they have**. The apps we're interested in are **Faceblock**, **Instantgam**, **Tooter**, and **LankedOn**.
 
-Then we asked how much data they've used this week. Here's what they WhutsUpped us.
+* **Walter** sent: "Hello. I've got Faceblock and Instantgam. I'm too old for the other ones."
+* **Jesse** sent:  "Yo! I've got 'em all. Tooter, Faceblock, Instantgam, Snaptalk."
+* **Saul** sent: "I'm on LankedOn for Business. And I have an Instantgam account for my cats. Oh, and Faceblock for my ex-husbands."
+* **Gus** sent: "I use Tooter and Instantgam. My customers aren't on the others, so I can't get them to engage with my brand there."
 
-* Walter sent: "It was 67MB. Is that everything? I'm busy, you know."
-* Jesse sent: "Damn, it was like 300MB. Dat Snaptalk is a data hog, yo."
-* Saul sent: "I think 283MB. That's what the guy at the store said. I think it means MegaBites."
-* Gus sent: "Around 150MB. I have the receipts if you need more precise figures."
+Then we asked **how much data they've used this week**. Here's what they WhutsUpped us.
 
-A friend of ours at one of the networks tells us that Tooter and Faceblock use about the same amount of data, but Instantgam uses about 1.5 times those. Snaptalk uses about 3 times as much data as Tooter. LankedOn uses about half the data Faceblock does.
+* **Walter** sent: "It was 67MB. Is that everything? I'm busy, you know."
+* **Jesse** sent: "Damn, it was like 300MB. Dat Snaptalk is a data hog, yo."
+* **Saul** sent: "I think 283MB. That's what the guy at the store said. I think it means MegaBites."
+* **Gus** sent: "Around 150MB. I have the receipts if you need more precise figures."
 
-That means that Tooter : Facebook : Instantgam : Snaptalk : LankedOn is  2 : 2 : 3 : 1.
+A friend of ours at one of the cellphone networks tells us that Tooter and Faceblock use about the same amount of data, but Instantgam uses about 1.5 times those. Snaptalk uses about 3 times as much data as Tooter. LankedOn uses about half the data Faceblock does.
+
+That means that Tooter : Facebook : Instantgam : Snaptalk : LankedOn is  2 : 2 : 6 : 3 : 1.
+
+![](/img/phone-pic.png)
 
 ## Who, what, how much?
 
@@ -36,4 +40,4 @@ Take the string inputs above and calculate:
 * Who doesn't use Faceblock?
 * For each person, estimate how much data each app uses. Use the data ratios from our friend at the network.
 
-[But wait, there's more &rarr;](but-wait-theres-more.html)
+[But wait, there's more &rarr; &rarr; &rarr;](but-wait-theres-more.html)
