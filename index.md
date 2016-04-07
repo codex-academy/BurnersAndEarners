@@ -25,7 +25,7 @@ Then we asked **how much data they've used this week**. Here's what they WhutsUp
 
 A friend of ours at one of the cellphone networks tells us that Tooter and Faceblock use about the same amount of data, but Instantgam uses about 1.5 times those. Snaptalk uses about 3 times as much data as Tooter. LankedOn uses about half the data Faceblock does.
 
-That means that Tooter : Facebook : Instantgam : Snaptalk : LankedOn is  2 : 2 : 6 : 3 : 1.
+That means that Tooter : Facebook : Instantgam : Snaptalk : LankedOn is  2 : 2 : 3 : 6 : 1.
 
 ![](/img/phone-pic.png)
 
