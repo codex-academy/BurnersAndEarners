@@ -9,7 +9,7 @@ Some friends of ours have cellphone with various social media apps installed. Th
 
 ![](/img/cellphone.png)
 
-We asked them to WhutsUp us with **what apps they have**. The apps we're interested in are **Faceblock**, **Instantgam**, **Tooter**, and **LankedOn**.
+We asked them to WhutsUp us with **what apps they have**. The apps we're interested in are **Faceblock**, **Instantgam**, **Tooter**, **Snaptalk**, and **LankedOn**.
 
 * **Walter** sent: "Hello. I've got Faceblock and Instantgam. I'm too old for the other ones."
 * **Jesse** sent:  "Yo! I've got 'em all. Tooter, Faceblock, Instantgam, Snaptalk."
