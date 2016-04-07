@@ -12,7 +12,7 @@ Some friends of ours have cellphone with various social media apps installed. Th
 We asked them to WhutsUp us with **what apps they have**. The apps we're interested in are **Faceblock**, **Instantgam**, **Tooter**, **Snaptalk**, and **LankedOn**.
 
 * **Walter** sent: "Hello. I've got Faceblock and Instantgam. I'm too old for the other ones."
-* **Jesse** sent:  "Yo! I've got 'em all. Tooter, Faceblock, Instantgam, Snaptalk."
+* **Jesse** sent:  "Yo! I've got 'em all. Tooter, Faceblock, Instantgam, Snaptalk, LankedOn."
 * **Saul** sent: "I'm on LankedOn for Business. And I have an Instantgam account for my cats. Oh, and Faceblock for my ex-husbands."
 * **Gus** sent: "I use Tooter and Instantgam. My customers aren't on the others, so I can't get them to engage with my brand there."
 
